@@ -13,18 +13,18 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>artifact-registry</id>			
-			<url>artifactregistry://europe-southwest1-maven.pkg.dev/openmarket-demo/general-interno</url>
+			<url>artifactregistry://europe-southwest1-maven.pkg.dev/openmarket-364509/general-interno</url>
 		</snapshotRepository>
 		<repository>
 			<id>artifact-registry</id>			
-			<url>artifactregistry://europe-southwest1-maven.pkg.dev/openmarket-demo/general-interno</url>
+			<url>artifactregistry://europe-southwest1-maven.pkg.dev/openmarket-364509/general-interno</url>
 		</repository>
 	</distributionManagement>
 
 	<repositories>
 		<repository>
 			<id>artifact-registry</id>			
-			<url>artifactregistry://europe-southwest1-maven.pkg.dev/openmarket-demo/general-interno</url>
+			<url>artifactregistry://europe-southwest1-maven.pkg.dev/openmarket-364509/general-interno</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
